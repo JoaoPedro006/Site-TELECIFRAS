@@ -1,0 +1,123 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+  
+  header {
+    background-color: black;
+    height: 200px;
+  }
+  
+  header h1 {
+    padding-left: 30px;
+    font-size: 40px;
+    display: inline-block;
+    margin-top: 20px;
+    font-family: "Merriweather", serif;
+    font-weight: 300;
+    color: antiquewhite;
+  }
+  
+  header h2 {
+    text-align: center;
+    font-size: 50px;
+    padding-top: 20px;
+    color: antiquewhite;
+  }
+
+  section.sessao-violao{
+    width: 100%;
+  }
+  
+  section.sessao-violao h1{
+    text-align: center;
+    margin-top: 50px;
+    font-size: 37px;
+  }
+
+  .boxes-1{
+    background-color: black;
+  }
+
+  .box-1{
+    width: 303px;
+    height: 210px;
+    margin-left:62px;
+    margin-top: 30px;
+    background-color: black;
+    display: inline-block;
+  }
+
+  .box-1 iframe{
+    width: 100%;
+  }
+
+  .box-1 a{
+    margin-left: 32%;
+    list-style-type: none;
+    text-decoration: none;
+    color:antiquewhite;
+    font-size: 17px;
+    background-color: orange;
+    text-align: center;
+    border-radius: 8px;
+    width: 100px;
+    height: 23px;
+  }
+
+  @media screen and (max-width: 1490px){
+    .box-1{
+      width: 20%;
+      position: relative;
+      left: 20px;
+    }
+    
+    .boxes-1{
+      padding-right: 60px;
+    }
+    
+  }
+  @media screen and (max-width: 1376px){
+    .box-1{
+      width: 25%;
+      position: relative;
+      left: 50px;
+    }
+    
+    .boxes-1{
+      padding-right: 60px;
+    }
+  }
+
+  @media screen and (max-width: 1200px){
+    
+   .box-1{
+    width: 39%;
+    position: relative;
+    left: 50px;
+  }
+  
+  .boxes-1{
+    padding-right: 60px;
+  }
+  
+}
+
+@media screen and (max-width: 800px){
+  .box-1{
+     position: relative;
+     left: -5px;
+  }
+}
+
+@media screen and (max-width: 660px){
+  .box-1{
+    width: 100%;
+    
+  }
+  
+  .boxes-1{
+    padding-right: 150px;
+  }
+}
