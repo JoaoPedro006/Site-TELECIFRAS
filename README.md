@@ -6,4 +6,4 @@ Todas foram feitas de modo responsivo, utilizando float, display inline-block e 
 Adicionei imagens e vídeos com o width em porcentagem pois fica mais fácil de se auto ajustar na tela.
 
 As partes de cifra e partitura foram praticamente idênticas, apenas diferenciando-se nas imagens e na cor do header.
-utilizei vídeos do canal do cifra club para colocar na parte de viddeo aulas e por fim, é isso.
+Utilizei vídeos do canal do cifra club para colocar na parte de video aulas e por fim, é isso.
