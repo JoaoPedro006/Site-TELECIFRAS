@@ -2,6 +2,11 @@
 Esse projeto consiste em simular um site de cifras e partituras, no qual usei o site "https://www.cifraclub.com.br/"  como referêria.
 Primeiro Dividi ele em 4 partes: Parte principal, Parte de cifras, partituras e de video aulas.
 
+![cap-1](https://github.com/JoaoPedro006/Site-TELECIFRAS/assets/145372868/88c4a81c-5eb4-472b-8b77-391cf0538f01)
+![cap-2](https://github.com/JoaoPedro006/Site-TELECIFRAS/assets/145372868/beed1763-c5b0-4191-81c3-719d0ff9844d)
+![cap-3](https://github.com/JoaoPedro006/Site-TELECIFRAS/assets/145372868/dafe53d5-52ce-41a1-a787-d451861d3638)
+![cap-4](https://github.com/JoaoPedro006/Site-TELECIFRAS/assets/145372868/a0dcbda9-3815-4955-88c6-040a7e1cec7e)
+
 Todas foram feitas de modo responsivo, utilizando float, display inline-block e flex.
 Adicionei imagens e vídeos com o width em porcentagem pois fica mais fácil de se auto ajustar na tela.
 
